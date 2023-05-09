@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> RocketNews </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto RocketNews" src=".github/preview.svg" width="100%">
+  <img alt="projeto RocketNews" src="assets/preview.svg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
