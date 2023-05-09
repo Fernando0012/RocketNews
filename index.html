@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="assets/icon.png" type="image/x-icon">
+    <link rel="stylesheet" href="style/style.css">
+    <title>RocketNews</title>
+</head>
+<body>
+    <main>
+        <div class="container">
+            <div class="news">
+            <img src="assets/logo.svg" alt="Logo da RocketNews" class="logo">
+            <h2>atualize ideias e informações em 5 minutos.</h2>
+            <div class="paragraph">
+                <p>tudo que você precisa saber para começar seu dia bem e informado</p>
+                <p>noticias sobre o universo Rocketseat, e tudo o que precisa para começarodia melhor. <br>
+                    Perfeito para se preparar para codar☕
+                </p>
+            </div>
+            <div class="search">
+                <form method="post" action="">
+                    <legend>Insira seu e-mail:</legend>
+                    <label for="email" class="sr-only">Insira seu e-mail</label>
+                    <div class="ajuste">
+                        <div class="rectangle"></div>
+                        <input type="email" name="email" id="email" placeholder="oi@rocketseat.com"minlength="20" maxlength="255" size="12" autocomplete="on">
+                        <a type="submit" id="button" onclick="mensagem()"><img src="assets/send.svg" alt=""></a>
+                    </div>
+                </form>
+                <a href="read.html" id="link">deixe-me ler primeiro <img src="assets/arrow-right.svg" alt=""></a>
+            </div>
+            </div>
+        </div>
+    </main>
+    <script src="JS/main.js"></script>
+</body>
+</html>
