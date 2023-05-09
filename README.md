@@ -29,12 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## 💻 Projeto
-
-O DevLinks é um agregador de links para usar como cartão de visitas online.
-
-- [Acesse o projeto finalizado, online]()
-
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/I7zYu36ZKOIdbvDj97a2F1/DD-%2F-RocketNews-(Copy)?type=design&node-id=3-2&t=0uANyTr0gPvkqRrG-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
